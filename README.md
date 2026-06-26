@@ -12,7 +12,7 @@ The paper surveys the publication history, media-mix development, and continuity
 
 ## Publication
 
-Proceedings of the 2nd International Conference on Moon Literature (ICML)  
+Proceedings of the 2nd International Conference on Moon Literature (ICML) - It's a Parody Conference XD
 Ulsan, Korea · UNIANI · 2026
 
 Copyright © 2026 Seonuk Kim.
